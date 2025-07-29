@@ -5,5 +5,7 @@ This project consists of two Python scripts:
 attacker's machine.
 - 2. server.py – Runs on the attacker's machine and listens for incoming connections,
 allowing command execution and file transfers.
+
+
 Once the connection is established, the attacker can execute system commands remotely,
 upload/download files, and navigate through directories.
